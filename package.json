@@ -1,7 +1,1 @@
-{
-  "name": "news-image-20261123",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "description": "One-page newspaper front page summing up Monday 23 November 2026 — 36 stories, 7 regions."
-}
+{"description":"One-page newspaper front page summing up Monday 23 November 2026 — 36 stories, 7 regions, timeline strip, numbers strip.","name":"news-image-20261123","private":true,"type":"module","version":"1.0.0"}
